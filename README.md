@@ -1,7 +1,9 @@
 # 全ユーザーの公式リツイートを非表示に
 
 ## 使い方
-`node app`で。
+1. settings.example.jsonをsettings.jsonにリネーム。
+2. settings.jsonに各トークン情報やらクライアント情報を書き込む。
+3. `node app`
 
 ### その他
 
